@@ -1,0 +1,12 @@
+{
+  "name": "awg-project-water",
+  "version": "1.0.0",
+  "description": "Atmospheric Water Generator Project Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
